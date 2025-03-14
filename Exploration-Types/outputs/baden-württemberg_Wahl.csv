@@ -1,0 +1,18 @@
+VTypL;First Document Type;Count;Percentage
+Wahl;Wahlvorschlag;264;30.88
+Wahl;Vorschlag;232;27.13
+Wahl;none;138;16.14
+Wahl;['Vorschlag', 'Vorschlag'];131;15.32
+Wahl;['Aktuelle Debatte', 'Wahlvorschlag'];32;3.74
+Wahl;Aktuelle Debatte;16;1.87
+Wahl;['Vorschlag', 'Wahlvorschlag'];12;1.4
+Wahl;['Wahlvorschlag', 'Wahlvorschlag'];12;1.4
+Wahl;Mitteilung;5;0.58
+Wahl;['Vorschlag', 'Mitteilung'];3;0.35
+Wahl;Verzeichnis;2;0.23
+Wahl;Regierungsinformation;2;0.23
+Wahl;Regierungserklärung;2;0.23
+Wahl;['Aktuelle Debatte', 'Vorschlag'];1;0.12
+Wahl;['Ansprache', 'Wahlvorschlag'];1;0.12
+Wahl;['Regierungserklärung', 'Wahlvorschlag'];1;0.12
+Wahl;['Regierungsinformation', 'Wahlvorschlag'];1;0.12

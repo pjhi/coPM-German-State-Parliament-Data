@@ -1,0 +1,17 @@
+VTypL;First Document Type;Count;Percentage
+Debatte;Aktuelle Debatte;718;58.95
+Debatte;['Aktuelle Debatte', 'Aktuelle Debatte'];262;21.51
+Debatte;['Vorschlag', 'Aktuelle Debatte'];125;10.26
+Debatte;Regierungsinformation und Aussprache;30;2.46
+Debatte;Regierungserklärung und Aussprache;29;2.38
+Debatte;['Aktuelle Debatte', 'Regierungserklärung und Aussprache'];12;0.99
+Debatte;['Vorschlag', 'Regierungserklärung und Aussprache'];10;0.82
+Debatte;Regierungserklärung;8;0.66
+Debatte;none;7;0.57
+Debatte;['Regierungserklärung', 'Regierungserklärung'];5;0.41
+Debatte;['Regierungserklärung', 'Regierungserklärung und Aussprache'];4;0.33
+Debatte;['Aktuelle Debatte', 'Regierungsinformation und Aussprache'];2;0.16
+Debatte;['Ansprache', 'Aktuelle Debatte'];2;0.16
+Debatte;['Vorschlag', 'Regierungsinformation und Aussprache'];2;0.16
+Debatte;['Regierungserklärung', 'Aktuelle Debatte'];1;0.08
+Debatte;['Regierungsinformation', 'Regierungsinformation und Aussprache'];1;0.08

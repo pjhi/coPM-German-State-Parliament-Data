@@ -1,0 +1,135 @@
+case:VTypL,case:DokTypLFirstDoc,count
+Anfrage,Kleine Anfrage,17923
+Anfrage,"['Fragestunde', 'Mündliche Anfrage']",10522
+Anfrage,Dringliche Anfrage,368
+Anfrage,Große Anfrage,254
+Anfrage,Sitzung,41
+Anfrage,none,22
+Anfrage,Mündliche Anfrage,20
+Anfrage,Antrag,19
+Anfrage,Antwort,10
+Anfrage,"['Fragestunde', 'Dringliche Anfrage']",9
+Anfrage,Fragestunde,3
+Anfrage,Antrag auf Aktuelle Stunde,2
+Anfrage,Aktuelle Stunde,1
+Anfrage,Bericht,1
+Anfrage,"['Fragestunde', 'Anhörung']",1
+Antrag,Antrag,3256
+Antrag,Antrag auf Aktuelle Stunde,120
+Antrag,Antrag (Aktuelle Stunde),74
+Antrag,Antrag mit Wahlvorschlag,49
+Antrag,Entschließungsantrag,38
+Antrag,Sitzung,33
+Antrag,Selbstständiger Entschließungsantrag,10
+Antrag,none,6
+Antrag,Dringlichkeitsantrag,3
+Antrag,Änderungsantrag,3
+Antrag,Bericht,2
+Antrag,Kleine Anfrage,2
+Antrag,Gesetzentwurf,1
+Antrag,Konzept,1
+Antrag,"['Fragestunde', 'Mündliche Anfrage']",1
+Antrag,"['Sitzung', 'Sondersitzung']",1
+Bericht,Bericht,568
+Bericht,Unterrichtung,58
+Bericht,Konzept,25
+Bericht,Stellungnahme,22
+Bericht,Sitzung,16
+Bericht,Konzeption,12
+Bericht,Zwischenbericht,7
+Bericht,Programm,6
+Bericht,none,6
+Bericht,Leitlinien,3
+Bericht,Maßnahmenpaket,2
+Bericht,Aktionsplan,1
+Bericht,Ergänzungsvorlage,1
+Bericht,Grundsätze,1
+Bericht,Vorhabenplan,1
+Beschlussempfehlung und Bericht eines Ausschusses,Sitzung,40
+Beschlussempfehlung und Bericht eines Ausschusses,Beschlussempfehlung und Bericht,12
+Beschlussempfehlung und Bericht eines Ausschusses,none,1
+Debatte,Sitzung,15241
+Debatte,Aktuelle Stunde,239
+Debatte,Persönliche Erklärung,172
+Debatte,Sitzung öffentlich,168
+Debatte,none,67
+Debatte,"['Sitzung', 'Öffentliche Anhörung']",55
+Debatte,"['Sitzung', 'Anhörung']",47
+Debatte,Regierungserklärung (Aussprache),28
+Debatte,Kleine Anfrage,28
+Debatte,"['Sitzung', 'Sondersitzung']",24
+Debatte,Entschließungsantrag,17
+Debatte,Erklärung,17
+Debatte,Mitteilung,17
+Debatte,Antrag,14
+Debatte,Umlaufverfahren,12
+Debatte,Sondersitzung nichtöffentlich,6
+Debatte,Beschlussempfehlung und Bericht,6
+Debatte,Persönliche Erklärung (Sondersitzung),6
+Debatte,Regierungserklärung,4
+Debatte,Regierungserklärung (Sondersitzung),4
+Debatte,Aussprache,4
+Debatte,"['Fragestunde', 'Mündliche Anfrage']",3
+Debatte,Antrag mit Wahlvorschlag,3
+Debatte,Bekanntmachung,3
+Debatte,Aussprache (Sondersitzung),3
+Debatte,Empfehlung,2
+Debatte,"['Sitzung', 'Sondersitzung (Öffentliche Anhörung)']",2
+Debatte,"['Sitzung', 'Beratung']",2
+Debatte,(Sondersitzung),2
+Debatte,Sondersitzung öffentlich,2
+Debatte,Beratung,2
+Debatte,Vorschlag,1
+Debatte,"['Antwort', 'Aktuelle Stunde']",1
+Debatte,Unterrichtung,1
+Debatte,"['Sitzung öffentlich', 'Öffentliche Anhörung']",1
+Debatte,"['Sitzung', '(Anhörung)']",1
+Debatte,"['Sitzung', 'Mitteilung']",1
+Debatte,"['Sitzung', 'Regierungserklärung']",1
+Debatte,Sitzung / Fortsetzung,1
+Debatte,Bericht,1
+Debatte,"['Sitzung', 'Wahl']",1
+Debatte,Antrag (Aktuelle Stunde),1
+Debatte,Erklärung (Sondersitzung),1
+Gesetzgebung,Gesetzentwurf,1208
+Gesetzgebung,Sitzung,331
+Gesetzgebung,Bekanntmachung,58
+Gesetzgebung,none,7
+Gesetzgebung,Beschlussempfehlung und Bericht,3
+Gesetzgebung,Antrag,1
+Gesetzgebung,Sitzung öffentlich,1
+Gesetzgebung,Sondersitzung nichtöffentlich,1
+Sonstiges,none,726
+Sonstiges,Sitzung,720
+Sonstiges,Mitteilung,129
+Sonstiges,Bekanntmachung,92
+Sonstiges,Übersicht,58
+Sonstiges,Blickpunkt,25
+Sonstiges,Report,18
+Sonstiges,Unterrichtung,17
+Sonstiges,Kleine Anfrage,15
+Sonstiges,Konzept,14
+Sonstiges,"['Sitzung', 'Sondersitzung']",7
+Sonstiges,Stellungnahme,5
+Sonstiges,Bericht,5
+Sonstiges,Erklärung,3
+Sonstiges,Entschließungsantrag,2
+Sonstiges,Antrag mit Wahlvorschlag,2
+Sonstiges,"['Sitzung', 'Mitteilung']",1
+Sonstiges,"['Sitzung', 'Anhörung']",1
+Sonstiges,Aktionsplan,1
+Sonstiges,Statistische Angaben,1
+Sonstiges,Sondersitzung,1
+Sonstiges,Regierungserklärung,1
+Sonstiges,Antrag,1
+Sonstiges,Maßnahmenpaket,1
+Sonstiges,Konzeption,1
+Sonstiges,Mitteilung (Sondersitzung),1
+"Wahl, Bestellung",Antrag mit Wahlvorschlag,404
+"Wahl, Bestellung",Sitzung,99
+"Wahl, Bestellung",Antrag und Wahlvorschlag,96
+"Wahl, Bestellung",Wahlvorschlag,37
+"Wahl, Bestellung",Antrag,7
+"Wahl, Bestellung",Mitteilung,4
+"Wahl, Bestellung",Wahl,4
+"Wahl, Bestellung","['Sitzung', 'Wahl']",1

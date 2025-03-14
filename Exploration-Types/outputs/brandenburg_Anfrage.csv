@@ -1,0 +1,17 @@
+VTypL;First Document Type;Count;Percentage
+Anfrage;Kleine Anfrage;20992;60.31
+Anfrage;['Fragestunde', 'Mündliche Anfrage'];12952;37.21
+Anfrage;Dringliche Anfrage;436;1.25
+Anfrage;Große Anfrage;304;0.87
+Anfrage;Sitzung;46;0.13
+Anfrage;Mündliche Anfrage;20;0.06
+Anfrage;Antrag;19;0.05
+Anfrage;Antwort;13;0.04
+Anfrage;['Fragestunde', 'Dringliche Anfrage'];9;0.03
+Anfrage;none;5;0.01
+Anfrage;Fragestunde;3;0.01
+Anfrage;Antrag auf Aktuelle Stunde;2;0.01
+Anfrage;Aktuelle Stunde;1;0.0
+Anfrage;Bericht;1;0.0
+Anfrage;['Fragestunde', 'Anhörung'];1;0.0
+Anfrage;['Sitzung', 'Öffentliche Anhörung'];1;0.0

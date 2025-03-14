@@ -1,0 +1,33 @@
+case:VTypL,case:DokTypLFirstDoc,count,percentage
+Anfrage,Schriftliche Anfrage,32574,43.01
+Anfrage,Kleine Anfrage,29948,39.54
+Anfrage,Mündliche Anfrage,5776,7.63
+Anfrage,Nicht behandelte Mündliche Anfrage,5287,6.98
+Anfrage,Mündliche Anfrage (spontan),1686,2.23
+Anfrage,Große Anfrage,461,0.61
+Anfrage,Antwort,10,0.01
+Anfrage,Antrag,1,0.0
+Antrag,Antrag,7845,99.95
+Antrag,Antrag (Wahlvorschlag),4,0.05
+Beschlussempfehlung,Beschlüsse zum parlament. Verfahren,29,51.79
+Beschlussempfehlung,Beschlüsse zum parlamentarischen Verfahren,22,39.29
+Beschlussempfehlung,Behandlung im Plenum,4,7.14
+Beschlussempfehlung,BeschlEmpf u ABericht (Basdok),1,1.79
+Debatte,Ausschussbesprechung § 21 Abs. 3 GO,5492,38.17
+Debatte,Ausschussbesprechung § 21 Abs. 5 GO,5306,36.87
+Debatte,Verordnung,2559,17.78
+Debatte,Aktuelle Stunde,513,3.56
+Debatte,Behandlung im Plenum (Basisdokument),317,2.2
+Debatte,Ausschussbesprechung,117,0.81
+Debatte,Ordnungsruf,63,0.44
+Debatte,Behandlung im Plenum,21,0.15
+Debatte,Ausschussberatung,1,0.01
+Debatte,Gesetz- und Verordnungsblatt,1,0.01
+Gesetzgebung,Vorlage zur Beschlussfassung (Gesetzentwurf),937,47.64
+Gesetzgebung,Antrag (Gesetzentwurf),876,44.53
+Gesetzgebung,Bekanntmachung (Gesetz- und Verordnungsblatt),98,4.98
+Gesetzgebung,Neufassung,53,2.69
+Gesetzgebung,Vorlage zur Beschlussfassung,2,0.1
+Gesetzgebung,II. Lesung (Basisdokument),1,0.05
+"Wahl, Bestellung",Wahlvorschlag,602,99.83
+"Wahl, Bestellung",Behandlung im Plenum,1,0.17

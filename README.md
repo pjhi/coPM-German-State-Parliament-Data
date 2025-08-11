@@ -23,3 +23,13 @@ We ran our code only with Python 3, so we can not guarantee that it works with P
 
   ## Usage/ Reproducing Results
 *toDo*
+
+## Acknowledgments
+
+Parts of this repository (folder `LegislativeCapacityInGermanysParliaments/`) contain data and code from:
+
+Fortunato, David; Appeldorn, Niels H. (2021). *Replication Data for: Legislative Capacity in Germany's Parliaments*. Harvard Dataverse, V2. https://doi.org/10.7910/DVN/BA8G7H  
+
+This material is made available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+

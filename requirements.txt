@@ -6,3 +6,4 @@ pandas==2.3.0
 pm4py==2.7.15.3
 scipy==1.15.3
 seaborn==0.13.2
+xmltodict==0.14.2

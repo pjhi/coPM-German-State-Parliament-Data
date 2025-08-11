@@ -3,7 +3,11 @@ matplotlib==3.10.3
 matplotlib-inline==0.1.7
 numpy==2.2.6
 pandas==2.3.0
+PyPDF2==3.0.1
 pm4py==2.7.15.3
+requests==2.32.4
+rulelearn==0.1.2
+scikit-learn==1.7.1
 scipy==1.15.3
 seaborn==0.13.2
 xmltodict==0.14.2

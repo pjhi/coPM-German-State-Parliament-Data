@@ -10,18 +10,18 @@ See the requirements.txt file
 We ran our code only with Python 3, so we can not guarantee that it works with Python 2.
 
 ## Directory Structre
-- `Exploration-Types/` –   
-- `LegislativeCapacityInGermanysParliaments/` –   
-- `OriginalData/` –   
-- `eventLogs/` – 
-- `lawmaking_analysis/` – 
-- `performancePlots/` – 
-- `performance-measures.ipynb` – 
-- `xes-creator-per-folder-all-types.ipynb` – 
-- `xes-creator-per-folder-and-type.ipynb` – 
+- `Exploration-Types/` – Code and outputs to explore the different types of processes contained in the data.
+- `LegislativeCapacityInGermanysParliaments/` – Code and data from Fortunato, David; Appeldorn, Niels H. (2021) - see Acknowledgments below
+- `OriginalData/` – The original data, new data can be obtained from the parliaments websites.
+- `eventLogs/` – The generated event logs.
+- `lawmaking_analysis/` – Code, pre-processed data, and results for the analysis of the lawmaking processes.
+- `performancePlots/` – Generated plots as image files.
+- `performance-measures.ipynb` – Code to generate results for performance measures.
+- `xes-creator-per-folder-all-types.ipynb` – Code to generate one event log in the .xes format per folder including all process types.
+- `xes-creator-per-folder-and-type.ipynb` – Code to generate one event log in the .xes format per folder for each process types separately.
 - `README.md` – Project overview and instructions.
 
-  ## Usage/ Reproducing Results
+## Usage/ Reproducing Results
 *toDo*
 
 ## Acknowledgments

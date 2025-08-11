@@ -22,7 +22,8 @@ We ran our code only with Python 3, so we can not guarantee that it works with P
 - `README.md` – Project overview and instructions.
 
 ## Usage/ Reproducing Results
-*toDo*
+1. Install dependencies
+2. Generate event logs using 
 
 ## Acknowledgments
 
@@ -31,5 +32,8 @@ Parts of this repository (folder `LegislativeCapacityInGermanysParliaments/`) co
 Fortunato, David; Appeldorn, Niels H. (2021). *Replication Data for: Legislative Capacity in Germany's Parliaments*. Harvard Dataverse, V2. https://doi.org/10.7910/DVN/BA8G7H  
 
 This material is made available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+Part of the code in this repository (in folder `lawmaking_analysis`) is reused from hvoelzer. (2025). hvoelzer/outcomeanalysis: promise (promise). Zenodo. https://doi.org/10.5281/zenodo.15703293 - licensed under **CC BY 4.0**.
+
 
 

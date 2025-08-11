@@ -38,6 +38,11 @@ Under the following terms:
 The original raw data in this repository is made available by the respective parliaments and may be subject to their own terms of use.  
 Please refer to the websites listed above for specific usage conditions.
 
----
 
-**Note:** The folder `LegislativeCapacityInGermanysParliaments/` contains material from *Fortunato & Appeldorn (2021)*, which is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). See the `LICENSE` file in that folder for details.
+## 3. Incorporated Third-Party Material
+This repository contains code from the following external sources:
+
+- **lawmaking_analysis/** - Contains code from hvoelzer/outcomeanalysis (“promise” version, 2025) – Available via Zenodo (DOI: [10.5281/zenodo.15703293](https://doi.org/10.5281/zenodo.15703293)), licensed under **CC BY 4.0**.  
+- **LegislativeCapacityInGermanysParliaments/** – Contains data and code from Fortunato & Appeldorn (2021), licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). See the LICENSE file inside that folder.
+
+The terms of these licenses apply to the respective materials, and attribution is required when reusing them.

@@ -10,11 +10,13 @@ In this repository we provide all implementations and data collected and generat
       primaryClass={cs.DB},
       url={https://arxiv.org/abs/2508.10381}, 
 }
-
-Once the article has been officially published the citation will be here:
-*toDo*: @article{}
 ```
 You can access the pre-print of the corresponding research paper here: *https://doi.org/10.48550/arXiv.2508.10381*
+
+Once the article has been officially published the citation will be here:
+```
+*toDo*: @article{}
+```
 
 ## Requirements
 See the requirements.txt file 

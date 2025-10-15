@@ -1,6 +1,18 @@
 # Cross-Organizational Process Mining on German State Parliament Data
 In this repository we provide all implementations and data collected and generated to perform cross-organizational process mining on data from German state parliaments - specifically, from their documentation services (Parlamentsdokumentation). Note, that some of the documentation services provide new raw data on a daily basis - the code in this repository can then be used to generate new event logs from the new data. If you use our code or data for academic purposes please cite our paper:
 ```
+Citation for the pre-print of the corresponding research paper:
+@misc{hillmann2025crossorganizationalanalysisparliamentaryprocesses,
+      title={Cross-Organizational Analysis of Parliamentary Processes: A Case Study}, 
+      author={Paul-Julius Hillmann and Stephan A. Fahrenkrog-Petersen and Jan Mendling},
+      year={2025},
+      eprint={2508.10381},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2508.10381}, 
+}
+
+Once the article has been officially published the citation will be here:
 *toDo*: @article{}
 
 

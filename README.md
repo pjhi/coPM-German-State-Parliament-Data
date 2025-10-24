@@ -18,6 +18,10 @@ Once the article has been officially published the citation will be here:
 *toDo*: @article{}
 ```
 
+## If you just want to download the Event Logs
+All event logs are in the folder `eventLogs/`. If you cannot unzip the files, this might be because GitHub did not let you download the proper zip file. **To download the proper zip files through GitHub, you have to click on the file and then on raw.**
+For further information what exactly the differences are between the original and preprocessed event logs, please check out our paper.
+
 ## Requirements
 See the requirements.txt file 
 We ran our code only with Python 3, so we can not guarantee that it works with Python 2.

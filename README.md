@@ -26,7 +26,7 @@ We ran our code only with Python 3, so we can not guarantee that it works with P
 - `Exploration-Types/` – Code and outputs to explore the different types of processes contained in the data.
 - `LegislativeCapacityInGermanysParliaments/` – Code and data from Fortunato, David; Appeldorn, Niels H. (2021) - see Acknowledgments below
 - `OriginalData/` – The original data, new data can be obtained from the parliaments websites.
-- `eventLogs/` – The generated event logs.
+- `eventLogs/` – The generated event logs. **To download the proper zip files through GitHub, you have to click on the file and then on raw.**
 - `lawmaking_analysis/` – Code, pre-processed data, and results for the analysis of the lawmaking processes.
 - `performancePlots/` – Generated plots as image files.
 - `performance-measures.ipynb` – Code to generate results for performance measures.

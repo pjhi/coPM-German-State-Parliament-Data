@@ -1,22 +1,19 @@
 # Cross-Organizational Process Mining on German State Parliament Data
 In this repository we provide all implementations and data collected and generated to perform cross-organizational process mining on data from German state parliaments - specifically, from their documentation services (Parlamentsdokumentation). Note, that some of the documentation services provide new raw data on a daily basis - the code in this repository can then be used to generate new event logs from the new data. If you use our code or data for academic purposes please cite our paper:
 ```
-@misc{hillmann2025crossorganizationalanalysisparliamentaryprocesses,
-      title={Cross-Organizational Analysis of Parliamentary Processes: A Case Study}, 
-      author={Paul-Julius Hillmann and Stephan A. Fahrenkrog-Petersen and Jan Mendling},
-      year={2025},
-      eprint={2508.10381},
-      archivePrefix={arXiv},
-      primaryClass={cs.DB},
-      url={https://arxiv.org/abs/2508.10381}, 
-}
+@INPROCEEDINGS{11220746,
+  author={Hillmann, Paul-Julius and Fahrenkrog-Petersen, Stephan A. and Mendling, Jan},
+  booktitle={2025 7th International Conference on Process Mining (ICPM)}, 
+  title={Cross-Organizational Analysis of Parliamentary Processes: A Case Study}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Process mining;Legislation;Companies;Benchmark testing;Indexes;Best practices;Event Log Generation;Process Mining Case Study;Parliamentary Processes;Benchmarking},
+  doi={10.1109/ICPM66919.2025.11220746}}
 ```
 You can access the pre-print of the corresponding research paper here: *https://doi.org/10.48550/arXiv.2508.10381*
 
-Once the article has been officially published the citation will be here:
-```
-*toDo*: @article{}
-```
 
 ## If you just want to download the Event Logs
 All event logs are in the folder `eventLogs/`. If you cannot unzip the files, this might be because GitHub did not let you download the proper zip file. **To download the proper zip files through GitHub, you have to click on the file and then on raw.**
